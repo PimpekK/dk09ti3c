@@ -39,7 +39,7 @@ https://github.com/PimpekK/dk09ti3c
  
 ## Licencja
  
-
+Ten projekt jest udostęniany na licencji MIT. Szczegółowe informacje można znaleźć w dołączonym pliku LICENCJA
  
 ## Autor
  
